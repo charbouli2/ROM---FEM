@@ -1,0 +1,40 @@
+Assembly of Bst (stacked B-matrix)...
+Done (in =1.6104 s)
+Global viscosity matrix (including weights !!!)  ...
+Done (in = 0.46996 s)
+Computing STIFFNESS MATRIX K = BstT.*Cglo_w*Bst  ...
+Done (in =0.40405 s)
+Time to assemble G fast 0.21248 s
+Computing  global tractions vector (boundary contribution) Fbnd...
+Solving the system of equations for Navier Stokes all at once
+Solving Navier-Stokes...
+Time to assmble C fast: 0.70028
+Iteration: 0 normResidual: 350.7268
+Time to assmble C fast: 0.69532
+Time to assmble C fast: 0.6397
+Time to assmble C fast: 0.66185
+Time to assmble C fast: 0.69607
+Time to assmble C fast: 0.57467
+Iteration: 5 normResidual: 0.11375
+Time to assmble C fast: 0.55525
+Time to assmble C fast: 0.58467
+Time to assmble C fast: 0.56275
+Time to assmble C fast: 0.55537
+Time to assmble C fast: 0.59713
+Iteration: 10 normResidual: 4.1047e-05
+Time to assmble C fast: 0.53455
+Time to assmble C fast: 0.54963
+Time to assmble C fast: 0.55769
+Time to assmble C fast: 0.51991
+Time to assmble C fast: 0.54143
+Iteration: 15 normResidual: 1.8592e-08
+Time to assmble C fast: 0.53736
+Time to assmble C fast: 0.53205
+Time to solve: 12.8989s With 18 iterations
+Total time to solve the problem 17.4451 s
+Starting the postprocessing
+open GID FILE FOR VELOCITY:
+C:\Users\Usuario1\Desktop\TFG\Mycode\Code/PARTIALMODES1/NACA0012_AoA_5NS_mu_0.04_U_1_Res_1e-09_Steps_10_tolU_1e-06_tolP_1e-06/NACA0012_AoA_5_vNS_mu_0.04_U_1_Res_1e-09_Steps_10_tolU_1e-06_tolP_1e-06.res
+open GID FILE FOR PRESSURE:
+C:\Users\Usuario1\Desktop\TFG\Mycode\Code/PARTIALMODES1/NACA0012_AoA_5NS_mu_0.04_U_1_Res_1e-09_Steps_10_tolU_1e-06_tolP_1e-06/NACA0012_AoA_5NS_mu_0.04_U_1_Res_1e-09_Steps_10_tolU_1e-06_tolP_1e-06.res
+>> 

@@ -1,0 +1,69 @@
+>> mainFLUID
+Reading input data for velocity...
+Reading input data...
+Total number of DOFs: 51378
+Computing KGL
+
+nnode =
+
+       22801
+
+
+ndim =
+
+     2
+
+
+nelem =
+
+        5625
+
+
+nnodeE =
+
+     9
+
+Assembly of Bst (stacked B-matrix)...
+Done (in =0.15415 s)
+Global viscosity matrix (including weights !!!)  ...
+Done (in = 0.064218 s)
+Computing STIFFNESS MATRIX K = BstT.*Cglo_w*Bst  ...
+Done (in =0.046626 s)
+Time to assemble G fast 0.035866 s
+Computing  global tractions vector (boundary contribution) Fbnd...
+Solving the system of equations for Navier Stokes all at once
+Solving Navier-Stokes...
+Time to assmble C fast: 0.099553
+Iteration: 0 normResidual: 211.3137
+Time to assmble C fast: 0.08787
+Time to assmble C fast: 0.084468
+Time to assmble C fast: 0.087242
+Time to assmble C fast: 0.091193
+Time to assmble C fast: 0.088737
+Iteration: 5 normResidual: 1.7062
+Time to assmble C fast: 0.087009
+Time to assmble C fast: 0.0869
+Time to assmble C fast: 0.082495
+Time to assmble C fast: 0.083485
+Time to assmble C fast: 0.084884
+Iteration: 10 normResidual: 0.0012232
+Time to assmble C fast: 0.082573
+Time to assmble C fast: 0.085364
+Time to assmble C fast: 0.08812
+Time to assmble C fast: 0.085529
+Time to assmble C fast: 0.089019
+Iteration: 15 normResidual: 6.0671e-07
+Time to assmble C fast: 0.084431
+Time to assmble C fast: 0.084389
+Time to assmble C fast: 0.089549
+Time to assmble C fast: 0.085111
+Time to assmble C fast: 0.08327
+Iteration: 20 normResidual: 2.6265e-10
+Time to solve: 2.205s With 21 iterations
+Total time to solve the problem 2.7555 s
+Starting the postprocessing
+open GID FILE FOR VELOCITY:
+C:\Users\Usuario1\Desktop\TFG\Mycode\Code/PARTIALMODES1/LidDriven75NS_mu_0.001225_U_3_Res_1e-09_Steps_10_tolU_1e-06_tolP_1e-06/LidDriven75_vNS_mu_0.001225_U_3_Res_1e-09_Steps_10_tolU_1e-06_tolP_1e-06.res
+open GID FILE FOR PRESSURE:
+C:\Users\Usuario1\Desktop\TFG\Mycode\Code/PARTIALMODES1/LidDriven75NS_mu_0.001225_U_3_Res_1e-09_Steps_10_tolU_1e-06_tolP_1e-06/LidDriven75NS_mu_0.001225_U_3_Res_1e-09_Steps_10_tolU_1e-06_tolP_1e-06.res
+>> 

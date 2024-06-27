@@ -1,0 +1,67 @@
+>> mainFLUID
+Reading input data for velocity...
+Reading input data...
+Total number of DOFs: 51378
+Computing KGL
+
+nnode =
+
+       22801
+
+
+ndim =
+
+     2
+
+
+nelem =
+
+        5625
+
+
+nnodeE =
+
+     9
+
+Assembly of Bst (stacked B-matrix)...
+Done (in =0.14859 s)
+Global viscosity matrix (including weights !!!)  ...
+Done (in = 0.065816 s)
+Computing STIFFNESS MATRIX K = BstT.*Cglo_w*Bst  ...
+Done (in =0.056061 s)
+Time to assemble G fast 0.031657 s
+Computing  global tractions vector (boundary contribution) Fbnd...
+Solving the system of equations for Navier Stokes all at once
+Solving Navier-Stokes...
+Time to assmble C fast: 0.10918
+Iteration: 0 normResidual: 210.7631
+Time to assmble C fast: 0.10831
+Time to assmble C fast: 0.097171
+Time to assmble C fast: 0.095936
+Time to assmble C fast: 0.09131
+Time to assmble C fast: 0.095169
+Iteration: 5 normResidual: 0.57263
+Time to assmble C fast: 0.092359
+Time to assmble C fast: 0.083848
+Time to assmble C fast: 0.082676
+Time to assmble C fast: 0.084796
+Time to assmble C fast: 0.085803
+Iteration: 10 normResidual: 0.00040979
+Time to assmble C fast: 0.086058
+Time to assmble C fast: 0.085431
+Time to assmble C fast: 0.083962
+Time to assmble C fast: 0.087784
+Time to assmble C fast: 0.083456
+Iteration: 15 normResidual: 2.0364e-07
+Time to assmble C fast: 0.08225
+Time to assmble C fast: 0.081889
+Time to assmble C fast: 0.083994
+Time to assmble C fast: 0.08356
+Time to solve: 2.148s With 20 iterations
+Total time to solve the problem 2.7219 s
+Starting the postprocessing
+open GID FILE FOR VELOCITY:
+C:\Users\Usuario1\Desktop\TFG\Mycode\Code/PARTIALMODES1/LidDriven75NS_mu_0.001225_U_1_Res_1e-09_Steps_10_tolU_1e-06_tolP_1e-06/LidDriven75_vNS_mu_0.001225_U_1_Res_1e-09_Steps_10_tolU_1e-06_tolP_1e-06.res
+open GID FILE FOR PRESSURE:
+C:\Users\Usuario1\Desktop\TFG\Mycode\Code/PARTIALMODES1/LidDriven75NS_mu_0.001225_U_1_Res_1e-09_Steps_10_tolU_1e-06_tolP_1e-06/LidDriven75NS_mu_0.001225_U_1_Res_1e-09_Steps_10_tolU_1e-06_tolP_1e-06.res
+>> 

@@ -1,0 +1,2 @@
+Time to solve: 4.8514s With 26 iterations
+Total time to solve the problem 5.5694 s

@@ -1,0 +1,31 @@
+Time to assemble G fast 0.18382 s
+Computing  global tractions vector (boundary contribution) Fbnd...
+Solving the system of equations for Navier Stokes all at once
+Solving Navier-Stokes...
+Time to assmble C fast: 0.61469
+Iteration: 0 normResidual: 350.3805
+Time to assmble C fast: 0.52572
+Time to assmble C fast: 0.47446
+Time to assmble C fast: 0.4883
+Time to assmble C fast: 0.45177
+Time to assmble C fast: 0.47765
+Iteration: 5 normResidual: 0.15066
+Time to assmble C fast: 0.50261
+Time to assmble C fast: 0.49676
+Time to assmble C fast: 0.46523
+Time to assmble C fast: 0.4949
+Time to assmble C fast: 0.46094
+Iteration: 10 normResidual: 0.00015964
+Time to assmble C fast: 0.49123
+Time to assmble C fast: 0.46841
+Time to assmble C fast: 0.50305
+Time to assmble C fast: 0.46016
+Time to assmble C fast: 0.51531
+Iteration: 15 normResidual: 1.8449e-07
+Time to assmble C fast: 0.47983
+Time to assmble C fast: 0.52241
+Time to assmble C fast: 0.48951
+Time to assmble C fast: 0.54931
+Time to solve: 14.3469s With 20 iterations
+Total time to solve the problem 17.9386 s
+Starting the postprocessing

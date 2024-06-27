@@ -1,0 +1,69 @@
+ mainFLUID
+Reading input data for velocity...
+Reading input data...
+Total number of DOFs 51378
+Computing KGL
+
+nnode =
+
+       22801
+
+
+ndim =
+
+     2
+
+
+nelem =
+
+        5625
+
+
+nnodeE =
+
+     9
+
+Assembly of Bst (stacked B-matrix)...
+Done (in =0.17125 s)
+Global viscosity matrix (including weights !!!)  ...
+Done (in = 0.067065 s)
+Computing STIFFNESS MATRIX K = BstT.Cglo_wBst  ...
+Done (in =0.052823 s)
+Time to assemble G fast 0.032332 s
+Computing  global tractions vector (boundary contribution) Fbnd...
+Solving the system of equations for Navier Stokes all at once
+Solving Navier-Stokes...
+Time to assmble C fast 0.11189
+Iteration 0 normResidual 218.008
+Time to assmble C fast 0.11145
+Time to assmble C fast 0.093284
+Time to assmble C fast 0.09337
+Time to assmble C fast 0.098343
+Time to assmble C fast 0.097892
+Iteration 5 normResidual 5.6732
+Time to assmble C fast 0.091463
+Time to assmble C fast 0.093225
+Time to assmble C fast 0.10894
+Time to assmble C fast 0.093223
+Time to assmble C fast 0.13526
+Iteration 10 normResidual 0.0040151
+Time to assmble C fast 0.12818
+Time to assmble C fast 0.13734
+Time to assmble C fast 0.14782
+Time to assmble C fast 0.11444
+Time to assmble C fast 0.13566
+Iteration 15 normResidual 1.9707e-06
+Time to assmble C fast 0.1151
+Time to assmble C fast 0.10075
+Time to assmble C fast 0.099022
+Time to assmble C fast 0.10214
+Time to assmble C fast 0.099668
+Iteration 20 normResidual 8.4412e-10
+Time to solve 2.8045s With 21 iterations
+Total time to solve the problem 3.3794 s
+Starting the postprocessing
+open GID FILE FOR VELOCITY
+CUsersUsuario1DesktopTFGMycodeCodePARTIALMODES1LidDriven75NS_mu_0.001225_U_10_Res_1e-09_Steps_10_tolU_1e-06_tolP_1e-06LidDriven75_vNS_mu_0.001225_U_10_Res_1e-09_Steps_10_tolU_1e-06_tolP_1e-06.res
+open GID FILE FOR PRESSURE
+CUsersUsuario1DesktopTFGMycodeCodePARTIALMODES1LidDriven75NS_mu_0.001225_U_10_Res_1e-09_Steps_10_tolU_1e-06_tolP_1e-06LidDriven75NS_mu_0.001225_U_10_Res_1e-09_Steps_10_tolU_1e-06_tolP_1e-06.res
+ 

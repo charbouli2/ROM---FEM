@@ -1,0 +1,70 @@
+>> mainFLUID
+Reading input data for velocity...
+Reading input data...
+Total number of DOFs: 51378
+Computing KGL
+
+nnode =
+
+       22801
+
+
+ndim =
+
+     2
+
+
+nelem =
+
+        5625
+
+
+nnodeE =
+
+     9
+
+Assembly of Bst (stacked B-matrix)...
+Done (in =0.20949 s)
+Global viscosity matrix (including weights !!!)  ...
+Done (in = 0.070952 s)
+Computing STIFFNESS MATRIX K = BstT.*Cglo_w*Bst  ...
+Done (in =0.043911 s)
+Time to assemble G fast 0.032543 s
+Computing  global tractions vector (boundary contribution) Fbnd...
+Solving the system of equations for Navier Stokes all at once
+Solving Navier-Stokes...
+Time to assmble C fast: 0.10951
+Iteration: 0 normResidual: 210.7189
+Time to assmble C fast: 0.11179
+Time to assmble C fast: 0.13095
+Time to assmble C fast: 0.089706
+Time to assmble C fast: 0.10386
+Time to assmble C fast: 0.097678
+Iteration: 5 normResidual: 0.76872
+Time to assmble C fast: 0.087767
+Time to assmble C fast: 0.094524
+Time to assmble C fast: 0.094233
+Time to assmble C fast: 0.093295
+Time to assmble C fast: 0.090736
+Iteration: 10 normResidual: 0.0027879
+Time to assmble C fast: 0.088194
+Time to assmble C fast: 0.092643
+Time to assmble C fast: 0.096741
+Time to assmble C fast: 0.098441
+Time to assmble C fast: 0.094937
+Iteration: 15 normResidual: 5.417e-06
+Time to assmble C fast: 0.099584
+Time to assmble C fast: 0.087822
+Time to assmble C fast: 0.089382
+Time to assmble C fast: 0.092571
+Time to assmble C fast: 0.084327
+Iteration: 20 normResidual: 9.2119e-09
+Time to assmble C fast: 0.092736
+Time to assmble C fast: 0.096498
+Time to solve: 2.8818s With 23 iterations
+Total time to solve the problem 3.5006 s
+Starting the postprocessing
+open GID FILE FOR VELOCITY:
+C:\Users\Usuario1\Desktop\TFG\Mycode\Code/PARTIALMODES3/LidDriven75NS_mu_0.001225_U_0.5_Res_1e-09_Steps_10_tolU_1e-06_tolP_1e-06/LidDriven75_vNS_mu_0.001225_U_0.5_Res_1e-09_Steps_10_tolU_1e-06_tolP_1e-06.res
+open GID FILE FOR PRESSURE:
+C:\Users\Usuario1\Desktop\TFG

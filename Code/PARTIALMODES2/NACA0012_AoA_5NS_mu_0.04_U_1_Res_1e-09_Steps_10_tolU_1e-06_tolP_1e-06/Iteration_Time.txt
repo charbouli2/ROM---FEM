@@ -1,0 +1,27 @@
+Solving Navier-Stokes...
+Time to assmble C fast: 0.64552
+Iteration: 0 normResidual: 350.461
+Time to assmble C fast: 0.53202
+Time to assmble C fast: 0.53992
+Time to assmble C fast: 0.52848
+Time to assmble C fast: 0.50469
+Time to assmble C fast: 0.53923
+Iteration: 5 normResidual: 0.1146
+Time to assmble C fast: 0.46241
+Time to assmble C fast: 0.46615
+Time to assmble C fast: 0.46629
+Time to assmble C fast: 0.47074
+Time to assmble C fast: 0.45878
+Iteration: 10 normResidual: 4.6471e-05
+Time to assmble C fast: 0.49168
+Time to assmble C fast: 0.47389
+Time to assmble C fast: 0.48394
+Time to assmble C fast: 0.45025
+Time to assmble C fast: 0.48543
+Iteration: 15 normResidual: 3.3904e-08
+Time to assmble C fast: 0.45411
+Time to assmble C fast: 0.49044
+Time to assmble C fast: 0.47346
+Time to solve: 11.7534s With 19 iterations
+Total time to solve the problem 15.6171 s
+Starting the postprocessing

@@ -1,0 +1,75 @@
+>> mainFLUID
+Reading input data for velocity...
+Reading input data...
+Total number of DOFs: 51378
+Computing KGL
+
+nnode =
+
+       22801
+
+
+ndim =
+
+     2
+
+
+nelem =
+
+        5625
+
+
+nnodeE =
+
+     9
+
+Assembly of Bst (stacked B-matrix)...
+Done (in =0.15673 s)
+Global viscosity matrix (including weights !!!)  ...
+Done (in = 0.067034 s)
+Computing STIFFNESS MATRIX K = BstT.*Cglo_w*Bst  ...
+Done (in =0.058159 s)
+Time to assemble G fast 0.033647 s
+Computing  global tractions vector (boundary contribution) Fbnd...
+Solving the system of equations for Navier Stokes all at once
+Solving Navier-Stokes...
+Time to assmble C fast: 0.12095
+Iteration: 0 normResidual: 220.9268
+Time to assmble C fast: 0.10318
+Time to assmble C fast: 0.10809
+Time to assmble C fast: 0.11638
+Time to assmble C fast: 0.1086
+Time to assmble C fast: 0.0972
+Iteration: 5 normResidual: 4.4656
+Time to assmble C fast: 0.085742
+Time to assmble C fast: 0.093038
+Time to assmble C fast: 0.10059
+Time to assmble C fast: 0.10448
+Time to assmble C fast: 0.13289
+Iteration: 10 normResidual: 0.0079882
+Time to assmble C fast: 0.08787
+Time to assmble C fast: 0.086436
+Time to assmble C fast: 0.09687
+Time to assmble C fast: 0.096945
+Time to assmble C fast: 0.09294
+Iteration: 15 normResidual: 3.3656e-05
+Time to assmble C fast: 0.090838
+Time to assmble C fast: 0.1069
+Time to assmble C fast: 0.10039
+Time to assmble C fast: 0.10724
+Time to assmble C fast: 0.087507
+Iteration: 20 normResidual: 1.399e-07
+Time to assmble C fast: 0.08202
+Time to assmble C fast: 0.08951
+Time to assmble C fast: 0.14394
+Time to assmble C fast: 0.089657
+Time to assmble C fast: 0.10942
+Iteration: 25 normResidual: 5.8432e-10
+Time to solve: 3.2732s With 26 iterations
+Total time to solve the problem 3.86 s
+Starting the postprocessing
+open GID FILE FOR VELOCITY:
+C:\Users\Usuario1\Desktop\TFG\Mycode\Code/PARTIALMODES2/LidDriven75NS_mu_0.001225_U_6_Res_1e-09_Steps_10_tolU_1e-06_tolP_1e-06/LidDriven75_vNS_mu_0.001225_U_6_Res_1e-09_Steps_10_tolU_1e-06_tolP_1e-06.res
+open GID FILE FOR PRESSURE:
+C:\Users\Usuario1\Desktop\TFG\Mycode\Code/PARTIALMODES2/LidDriven75NS_mu_0.001225_U_6_Res_1e-09_Steps_10_tolU_1e-06_tolP_1e-06/LidDriven75NS_mu_0.001225_U_6_Res_1e-09_Steps_10_tolU_1e-06_tolP_1e-06.res
+>> 

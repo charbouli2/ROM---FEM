@@ -1,0 +1,73 @@
+>> mainFLUID
+Reading input data for velocity...
+Reading input data...
+Warning: Directory already exists. 
+> In mainFLUID (line 80) 
+Total number of DOFs: 51378
+Computing KGL
+
+nnode =
+
+       22801
+
+
+ndim =
+
+     2
+
+
+nelem =
+
+        5625
+
+
+nnodeE =
+
+     9
+
+Assembly of Bst (stacked B-matrix)...
+Done (in =0.14068 s)
+Global viscosity matrix (including weights !!!)  ...
+Done (in = 0.066655 s)
+Computing STIFFNESS MATRIX K = BstT.*Cglo_w*Bst  ...
+Done (in =0.051229 s)
+Time to assemble G fast 0.038047 s
+Computing  global tractions vector (boundary contribution) Fbnd...
+Solving the system of equations for Navier Stokes all at once
+Solving Navier-Stokes...
+Time to assmble C fast: 0.092432
+Iteration: 0 normResidual: 213.2117
+Time to assmble C fast: 0.086273
+Time to assmble C fast: 0.084988
+Time to assmble C fast: 0.08948
+Time to assmble C fast: 0.097572
+Time to assmble C fast: 0.095623
+Iteration: 5 normResidual: 2.7295
+Time to assmble C fast: 0.096542
+Time to assmble C fast: 0.095363
+Time to assmble C fast: 0.0863
+Time to assmble C fast: 0.094701
+Time to assmble C fast: 0.087604
+Iteration: 10 normResidual: 0.0064098
+Time to assmble C fast: 0.088532
+Time to assmble C fast: 0.087224
+Time to assmble C fast: 0.093773
+Time to assmble C fast: 0.10595
+Time to assmble C fast: 0.091038
+Iteration: 15 normResidual: 9.074e-06
+Time to assmble C fast: 0.088149
+Time to assmble C fast: 0.089465
+Time to assmble C fast: 0.094472
+Time to assmble C fast: 0.085648
+Time to assmble C fast: 0.090341
+Iteration: 20 normResidual: 1.0733e-08
+Time to assmble C fast: 0.086279
+Time to assmble C fast: 0.08908
+Time to solve: 3.0636s With 23 iterations
+Total time to solve the problem 3.6273 s
+Starting the postprocessing
+open GID FILE FOR VELOCITY:
+C:\Users\Usuario1\Desktop\TFG\Mycode\Code/FULLMODES/LidDriven75NS_mu_0.001225_U_3_Res_1e-09_Steps_10_tolU_1e-06_tolP_1e-06/LidDriven75_vNS_mu_0.001225_U_3_Res_1e-09_Steps_10_tolU_1e-06_tolP_1e-06.res
+open GID FILE FOR PRESSURE:
+C:\Users\Usuario1\Desktop\TFG\Mycode\Code/FULLMODES/LidDriven75NS_mu_0.001225_U_3_Res_1e-09_Steps_10_tolU_1e-06_tolP_1e-06/LidDriven75NS_mu_0.001225_U_3_Res_1e-09_Steps_10_tolU_1e-06_tolP_1e-06.res
+>> 

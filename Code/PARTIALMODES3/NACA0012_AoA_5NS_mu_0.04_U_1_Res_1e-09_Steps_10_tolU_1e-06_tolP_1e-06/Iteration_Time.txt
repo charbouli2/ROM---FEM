@@ -1,0 +1,26 @@
+Time to assmble C fast: 0.60058
+Iteration: 0 normResidual: 350.5873
+Time to assmble C fast: 0.59455
+Time to assmble C fast: 0.58708
+Time to assmble C fast: 0.58257
+Time to assmble C fast: 0.62958
+Time to assmble C fast: 0.66632
+Iteration: 5 normResidual: 0.12479
+Time to assmble C fast: 0.52033
+Time to assmble C fast: 0.55466
+Time to assmble C fast: 0.55355
+Time to assmble C fast: 0.58273
+Time to assmble C fast: 0.54385
+Iteration: 10 normResidual: 6.0547e-05
+Time to assmble C fast: 0.59485
+Time to assmble C fast: 0.55569
+Time to assmble C fast: 0.59647
+Time to assmble C fast: 0.53225
+Time to assmble C fast: 0.53925
+Iteration: 15 normResidual: 3.9313e-08
+Time to assmble C fast: 0.52864
+Time to assmble C fast: 0.5263
+Time to assmble C fast: 0.57041
+Time to solve: 13.8529s With 19 iterations
+Total time to solve the problem 17.8331 s
+Starting the postprocessing
